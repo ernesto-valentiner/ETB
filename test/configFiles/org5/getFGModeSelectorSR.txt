@@ -1,5 +1,5 @@
 {
 	"ID": "getFGModeSelectorSR",
-	"signature": "file file",
-	"modes": "+-"
+	"signature": "file",
+	"modes": "-"
 }

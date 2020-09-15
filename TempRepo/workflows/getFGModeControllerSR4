@@ -1,4 +1,4 @@
-getFGModeControllerSR4(I, O1, O2, O3):-
-         getFGModeSelectorSR(I, O1),
-         getFGModeIndicatorSR(I, O2),
-	     generateFGModeControllerSR(I, O3).
+getFGModeControllerSR(O1, O2, O3):-
+         getFGModeSelectorSR(O1),
+         getFGModeIndicatorSR(O2),
+	     generateFGModeControllerSR(O3).
