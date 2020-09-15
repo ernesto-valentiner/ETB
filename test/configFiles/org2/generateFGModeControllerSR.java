@@ -15,9 +15,9 @@ public class generateFGModeControllerSRWRP extends generateFGModeControllerSRETB
 
     @Override
     public void run(){
-        if (mode.equals("+-")) {
-            String path = "/Users/Ernesto/BachelorThesis/etb_org2/TempRepo/evidence";
-            out2 = path + "/FGModeControllerSR.pdf";
+        if (mode.equals("-")) {
+            String path = "/Users/Ernesto/BachelorThesis/ETB/TempRepo/evidence";
+            out1 = path + "/FGModeControllerSR.pdf";
             try {
                 Font font = FontFactory.getFont(FontFactory.COURIER, 16, BaseColor.BLACK);
 

@@ -15,9 +15,9 @@ public class getFGModeSelectorSRWRP extends getFGModeSelectorSRETBWRP {
 
     @Override
     public void run(){
-        if (mode.equals("+-")) {
-            String path = "/Users/Ernesto/BachelorThesis/etb_org2/TempRepo/evidence";
-            out2 = path + "/FGModeSelectorSR.pdf";
+        if (mode.equals("-")) {
+            String path = "/Users/Ernesto/BachelorThesis/ETB/TempRepo/evidence";
+            out1 = path + "/FGModeSelectorSR.pdf";
             try {
 
                 //create document supporting fulfillment of safety requirements

@@ -14,10 +14,10 @@ public class getFGModeIndicatorSRWRP extends getFGModeIndicatorSRETBWRP {
 
     @Override
     public void run(){
-        if (mode.equals("+-")) {
+        if (mode.equals("-")) {
 
-            String path = "/Users/Ernesto/BachelorThesis/etb_org2/TempRepo/evidence";
-            out2 = path + "/FGModeIndicatorSR.pdf";
+            String path = "/Users/Ernesto/BachelorThesis/ETB/TempRepo/evidence";
+            out1 = path + "/FGModeIndicatorSR.pdf";
 
             try {
 

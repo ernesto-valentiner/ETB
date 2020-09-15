@@ -158,9 +158,9 @@ public class Coordinator implements User {
             String caClientCoordUrl = prop.getProperty("caClientCoordUrl");
             String mspCoordName = prop.getProperty("MSPCoordName");
 
-            Administrator admin_coord = new Administrator("admin_coord1", "adminpw", pemFilenameCoord, caClientCoordUrl, mspCoordName, "org1.department1");
+            Administrator admin_coord = new Administrator("admin_coord", "adminpw", pemFilenameCoord, caClientCoordUrl, mspCoordName, "org1.department1");
             admin_coord.enroll();
-            admin_coord.registerUser("coord1");
+            admin_coord.registerUser("coord");
 
         } catch (Exception ex) {
             ex.printStackTrace();

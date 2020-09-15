@@ -2,12 +2,188 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="609c72c5-9f03-4d91-8ad6-ab4bce228f62" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TempRepo/workflows/getFGModeControllerSR4" beforeDir="false" afterPath="$PROJECT_DIR$/TempRepo/workflows/getFGModeControllerSR4" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/configFiles/org2/generateFGModeControllerSR.txt" beforeDir="false" afterPath="$PROJECT_DIR$/test/configFiles/org2/generateFGModeControllerSR.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/configFiles/org2/getFGModeControllerSR4.txt" beforeDir="false" afterPath="$PROJECT_DIR$/test/configFiles/org2/getFGModeControllerSR4.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/configFiles/org4/getFGModeIndicatorSR.txt" beforeDir="false" afterPath="$PROJECT_DIR$/test/configFiles/org4/getFGModeIndicatorSR.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/configFiles/org5/getFGModeSelectorSR.txt" beforeDir="false" afterPath="$PROJECT_DIR$/test/configFiles/org5/getFGModeSelectorSR.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TempRepo/workflows/getFGModeControllerSR4" beforeDir="false" afterPath="$PROJECT_DIR$/TempRepo/workflows/getFGModeControllerSR" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/params.json" beforeDir="false" afterPath="$PROJECT_DIR$/params.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/evidentia/Administrator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/evidentia/Administrator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/evidentia/Coordinator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/evidentia/Coordinator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/allclasses-index.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/allclasses-index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/allpackages-index.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/allpackages-index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/constant-values.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/constant-values.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/deprecated-list.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/deprecated-list.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/element-list" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/element-list" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/evidentia/Administrator.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/evidentia/Administrator.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/evidentia/Coordinator.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/evidentia/Coordinator.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/evidentia/Entity.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/evidentia/Entity.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/evidentia/EntityType.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/evidentia/EntityType.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/evidentia/Evidentia.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/evidentia/Evidentia.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/evidentia/GUI/Launcher.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/evidentia/GUI/Launcher.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/evidentia/GUI/UserInterface.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/evidentia/GUI/UserInterface.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/evidentia/GUI/class-use/Launcher.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/evidentia/GUI/class-use/Launcher.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/evidentia/GUI/class-use/UserInterface.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/evidentia/GUI/class-use/UserInterface.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/evidentia/GUI/package-summary.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/evidentia/GUI/package-summary.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/evidentia/GUI/package-tree.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/evidentia/GUI/package-tree.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/evidentia/GUI/package-use.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/evidentia/GUI/package-use.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/evidentia/class-use/Administrator.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/evidentia/class-use/Administrator.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/evidentia/class-use/Coordinator.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/evidentia/class-use/Coordinator.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/evidentia/class-use/Entity.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/evidentia/class-use/Entity.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/evidentia/class-use/EntityType.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/evidentia/class-use/EntityType.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/evidentia/class-use/Evidentia.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/evidentia/class-use/Evidentia.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/evidentia/configurations/FGModeIndicator.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/evidentia/configurations/FGModeIndicator.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/evidentia/configurations/FGModeSelector.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/evidentia/configurations/FGModeSelector.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/evidentia/configurations/class-use/FGModeIndicator.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/evidentia/configurations/class-use/FGModeIndicator.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/evidentia/configurations/class-use/FGModeSelector.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/evidentia/configurations/class-use/FGModeSelector.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/evidentia/configurations/package-summary.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/evidentia/configurations/package-summary.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/evidentia/configurations/package-tree.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/evidentia/configurations/package-tree.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/evidentia/configurations/package-use.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/evidentia/configurations/package-use.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/evidentia/etbCS/EvidenceLayer.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/evidentia/etbCS/EvidenceLayer.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/evidentia/etbCS/Orchestrator.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/evidentia/etbCS/Orchestrator.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/evidentia/etbCS/StorageLayer.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/evidentia/etbCS/StorageLayer.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/evidentia/etbCS/class-use/EvidenceLayer.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/evidentia/etbCS/class-use/EvidenceLayer.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/evidentia/etbCS/class-use/Orchestrator.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/evidentia/etbCS/class-use/Orchestrator.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/evidentia/etbCS/class-use/StorageLayer.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/evidentia/etbCS/class-use/StorageLayer.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/evidentia/etbCS/class-use/clientMode.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/evidentia/etbCS/class-use/clientMode.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/evidentia/etbCS/class-use/queryProcessor.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/evidentia/etbCS/class-use/queryProcessor.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/evidentia/etbCS/class-use/serverMode.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/evidentia/etbCS/class-use/serverMode.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/evidentia/etbCS/clientMode.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/evidentia/etbCS/clientMode.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/evidentia/etbCS/package-summary.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/evidentia/etbCS/package-summary.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/evidentia/etbCS/package-tree.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/evidentia/etbCS/package-tree.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/evidentia/etbCS/package-use.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/evidentia/etbCS/package-use.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/evidentia/etbCS/queryProcessor.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/evidentia/etbCS/queryProcessor.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/evidentia/etbCS/serverMode.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/evidentia/etbCS/serverMode.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/evidentia/etbCS/utils/claimSpec.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/evidentia/etbCS/utils/claimSpec.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/evidentia/etbCS/utils/claimStatus.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/evidentia/etbCS/utils/claimStatus.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/evidentia/etbCS/utils/claimsPack.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/evidentia/etbCS/utils/claimsPack.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/evidentia/etbCS/utils/class-use/claimSpec.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/evidentia/etbCS/utils/class-use/claimSpec.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/evidentia/etbCS/utils/class-use/claimStatus.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/evidentia/etbCS/utils/class-use/claimStatus.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/evidentia/etbCS/utils/class-use/claimsPack.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/evidentia/etbCS/utils/class-use/claimsPack.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/evidentia/etbCS/utils/class-use/querySpec.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/evidentia/etbCS/utils/class-use/querySpec.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/evidentia/etbCS/utils/class-use/serverSpec.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/evidentia/etbCS/utils/class-use/serverSpec.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/evidentia/etbCS/utils/class-use/serversPackage.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/evidentia/etbCS/utils/class-use/serversPackage.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/evidentia/etbCS/utils/class-use/servicePackage.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/evidentia/etbCS/utils/class-use/servicePackage.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/evidentia/etbCS/utils/class-use/serviceSpec.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/evidentia/etbCS/utils/class-use/serviceSpec.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/evidentia/etbCS/utils/class-use/signatureSpec.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/evidentia/etbCS/utils/class-use/signatureSpec.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/evidentia/etbCS/utils/class-use/workFlowSpec.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/evidentia/etbCS/utils/class-use/workFlowSpec.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/evidentia/etbCS/utils/class-use/workFlowsPackage.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/evidentia/etbCS/utils/class-use/workFlowsPackage.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/evidentia/etbCS/utils/package-summary.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/evidentia/etbCS/utils/package-summary.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/evidentia/etbCS/utils/package-tree.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/evidentia/etbCS/utils/package-tree.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/evidentia/etbCS/utils/package-use.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/evidentia/etbCS/utils/package-use.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/evidentia/etbCS/utils/querySpec.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/evidentia/etbCS/utils/querySpec.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/evidentia/etbCS/utils/serverSpec.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/evidentia/etbCS/utils/serverSpec.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/evidentia/etbCS/utils/serversPackage.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/evidentia/etbCS/utils/serversPackage.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/evidentia/etbCS/utils/servicePackage.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/evidentia/etbCS/utils/servicePackage.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/evidentia/etbCS/utils/serviceSpec.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/evidentia/etbCS/utils/serviceSpec.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/evidentia/etbCS/utils/signatureSpec.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/evidentia/etbCS/utils/signatureSpec.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/evidentia/etbCS/utils/workFlowSpec.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/evidentia/etbCS/utils/workFlowSpec.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/evidentia/etbCS/utils/workFlowsPackage.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/evidentia/etbCS/utils/workFlowsPackage.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/evidentia/etbDL/CyberlogicParser.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/evidentia/etbDL/CyberlogicParser.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/evidentia/etbDL/Datalog.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/evidentia/etbDL/Datalog.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/evidentia/etbDL/DatalogEngine.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/evidentia/etbDL/DatalogEngine.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/evidentia/etbDL/DatalogParser.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/evidentia/etbDL/DatalogParser.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/evidentia/etbDL/class-use/CyberlogicParser.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/evidentia/etbDL/class-use/CyberlogicParser.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/evidentia/etbDL/class-use/Datalog.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/evidentia/etbDL/class-use/Datalog.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/evidentia/etbDL/class-use/DatalogEngine.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/evidentia/etbDL/class-use/DatalogEngine.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/evidentia/etbDL/class-use/DatalogParser.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/evidentia/etbDL/class-use/DatalogParser.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/evidentia/etbDL/engine/Indexable.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/evidentia/etbDL/engine/Indexable.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/evidentia/etbDL/engine/IndexedSet.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/evidentia/etbDL/engine/IndexedSet.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/evidentia/etbDL/engine/class-use/Indexable.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/evidentia/etbDL/engine/class-use/Indexable.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/evidentia/etbDL/engine/class-use/IndexedSet.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/evidentia/etbDL/engine/class-use/IndexedSet.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/evidentia/etbDL/engine/class-use/clauseNode.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/evidentia/etbDL/engine/class-use/clauseNode.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/evidentia/etbDL/engine/class-use/goalNode.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/evidentia/etbDL/engine/class-use/goalNode.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/evidentia/etbDL/engine/clauseNode.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/evidentia/etbDL/engine/clauseNode.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/evidentia/etbDL/engine/goalNode.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/evidentia/etbDL/engine/goalNode.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/evidentia/etbDL/engine/package-summary.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/evidentia/etbDL/engine/package-summary.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/evidentia/etbDL/engine/package-tree.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/evidentia/etbDL/engine/package-tree.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/evidentia/etbDL/engine/package-use.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/evidentia/etbDL/engine/package-use.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/evidentia/etbDL/output/DefaultQueryOutput.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/evidentia/etbDL/output/DefaultQueryOutput.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/evidentia/etbDL/output/OutputUtils.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/evidentia/etbDL/output/OutputUtils.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/evidentia/etbDL/output/QueryOutput.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/evidentia/etbDL/output/QueryOutput.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/evidentia/etbDL/output/class-use/DefaultQueryOutput.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/evidentia/etbDL/output/class-use/DefaultQueryOutput.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/evidentia/etbDL/output/class-use/OutputUtils.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/evidentia/etbDL/output/class-use/OutputUtils.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/evidentia/etbDL/output/class-use/QueryOutput.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/evidentia/etbDL/output/class-use/QueryOutput.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/evidentia/etbDL/output/package-summary.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/evidentia/etbDL/output/package-summary.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/evidentia/etbDL/output/package-tree.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/evidentia/etbDL/output/package-tree.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/evidentia/etbDL/output/package-use.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/evidentia/etbDL/output/package-use.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/evidentia/etbDL/package-summary.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/evidentia/etbDL/package-summary.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/evidentia/etbDL/package-tree.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/evidentia/etbDL/package-tree.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/evidentia/etbDL/package-use.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/evidentia/etbDL/package-use.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/evidentia/etbDL/services/class-use/genericWRP.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/evidentia/etbDL/services/class-use/genericWRP.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/evidentia/etbDL/services/genericWRP.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/evidentia/etbDL/services/genericWRP.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/evidentia/etbDL/services/package-summary.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/evidentia/etbDL/services/package-summary.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/evidentia/etbDL/services/package-tree.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/evidentia/etbDL/services/package-tree.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/evidentia/etbDL/services/package-use.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/evidentia/etbDL/services/package-use.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/evidentia/etbDL/statements/DatalogStatement.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/evidentia/etbDL/statements/DatalogStatement.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/evidentia/etbDL/statements/DatalogStatementFactory.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/evidentia/etbDL/statements/DatalogStatementFactory.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/evidentia/etbDL/statements/FactStatement.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/evidentia/etbDL/statements/FactStatement.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/evidentia/etbDL/statements/QueryStatement.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/evidentia/etbDL/statements/QueryStatement.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/evidentia/etbDL/statements/RuleStatement.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/evidentia/etbDL/statements/RuleStatement.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/evidentia/etbDL/statements/class-use/DatalogStatement.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/evidentia/etbDL/statements/class-use/DatalogStatement.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/evidentia/etbDL/statements/class-use/DatalogStatementFactory.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/evidentia/etbDL/statements/class-use/DatalogStatementFactory.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/evidentia/etbDL/statements/class-use/FactStatement.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/evidentia/etbDL/statements/class-use/FactStatement.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/evidentia/etbDL/statements/class-use/QueryStatement.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/evidentia/etbDL/statements/class-use/QueryStatement.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/evidentia/etbDL/statements/class-use/RuleStatement.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/evidentia/etbDL/statements/class-use/RuleStatement.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/evidentia/etbDL/statements/package-summary.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/evidentia/etbDL/statements/package-summary.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/evidentia/etbDL/statements/package-tree.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/evidentia/etbDL/statements/package-tree.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/evidentia/etbDL/statements/package-use.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/evidentia/etbDL/statements/package-use.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/evidentia/etbDL/utils/Authority.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/evidentia/etbDL/utils/Authority.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/evidentia/etbDL/utils/DatalogException.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/evidentia/etbDL/utils/DatalogException.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/evidentia/etbDL/utils/Expr.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/evidentia/etbDL/utils/Expr.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/evidentia/etbDL/utils/Rule.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/evidentia/etbDL/utils/Rule.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/evidentia/etbDL/utils/class-use/Authority.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/evidentia/etbDL/utils/class-use/Authority.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/evidentia/etbDL/utils/class-use/DatalogException.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/evidentia/etbDL/utils/class-use/DatalogException.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/evidentia/etbDL/utils/class-use/Expr.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/evidentia/etbDL/utils/class-use/Expr.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/evidentia/etbDL/utils/class-use/Rule.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/evidentia/etbDL/utils/class-use/Rule.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/evidentia/etbDL/utils/class-use/extDataBaseSuit.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/evidentia/etbDL/utils/class-use/extDataBaseSuit.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/evidentia/etbDL/utils/class-use/utils.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/evidentia/etbDL/utils/class-use/utils.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/evidentia/etbDL/utils/extDataBaseSuit.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/evidentia/etbDL/utils/extDataBaseSuit.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/evidentia/etbDL/utils/package-summary.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/evidentia/etbDL/utils/package-summary.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/evidentia/etbDL/utils/package-tree.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/evidentia/etbDL/utils/package-tree.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/evidentia/etbDL/utils/package-use.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/evidentia/etbDL/utils/package-use.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/evidentia/etbDL/utils/utils.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/evidentia/etbDL/utils/utils.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/evidentia/package-summary.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/evidentia/package-summary.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/evidentia/package-tree.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/evidentia/package-tree.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/evidentia/package-use.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/evidentia/package-use.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/help-doc.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/help-doc.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/index-all.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/index-all.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/member-search-index.js" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/member-search-index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/member-search-index.zip" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/member-search-index.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/overview-summary.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/overview-summary.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/overview-tree.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/overview-tree.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/package-search-index.js" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/package-search-index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/package-search-index.zip" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/package-search-index.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/serialized-form.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/serialized-form.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/system-properties.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/system-properties.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/type-search-index.js" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/type-search-index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/type-search-index.zip" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/type-search-index.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ca.org1.example.com-cert.pem" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ca.org2.example.com-cert.pem" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/connection-org1.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/connection-org2.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/evidentia/Administrator.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/evidentia/Administrator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/evidentia/Coordinator.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/evidentia/Coordinator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/evidentia-0.0.1-SNAPSHOT-javadoc.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/evidentia-0.0.1-SNAPSHOT-javadoc.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/evidentia-0.0.1-SNAPSHOT-sources.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/evidentia-0.0.1-SNAPSHOT-sources.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/evidentia-0.0.1-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/evidentia-0.0.1-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-javadoc-plugin-stale-data.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-javadoc-plugin-stale-data.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/configFiles/org2/generateFGModeControllerSR.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/configFiles/org2/generateFGModeControllerSR.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/configFiles/org2/getFGModeControllerSR4.txt" beforeDir="false" afterPath="$PROJECT_DIR$/test/configFiles/org2/getFGModeControllerSR.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/configFiles/org4/getFGModeIndicatorSR.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/configFiles/org4/getFGModeIndicatorSR.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/configFiles/org5/getFGModeSelectorSR.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/configFiles/org5/getFGModeSelectorSR.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wallet/admin_coord/admin_coord" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wallet/admin_coord/admin_coord-priv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wallet/admin_coord1/admin_coord1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wallet/admin_coord1/admin_coord1-priv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wallet/admin_org2/admin_org2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wallet/admin_org2/admin_org2-priv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wallet/coord1/coord1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wallet/coord1/coord1-priv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wallet/org2/org2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wallet/org2/org2-priv" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -109,28 +285,34 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
+          <entry key="getFGModeControllerSR" value="1" />
           <entry key="getFGModeControllerSR4" value="1" />
           <entry key="gitignore" value="1" />
-          <entry key="java" value="1" />
+          <entry key="java" value="11" />
+          <entry key="json" value="6" />
           <entry key="md" value="1" />
-          <entry key="txt" value="3" />
+          <entry key="pem" value="6" />
+          <entry key="txt" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="1" />
+          <entry key="JAVA" value="11" />
+          <entry key="JSON" value="6" />
           <entry key="Markdown" value="1" />
-          <entry key="PLAIN_TEXT" value="5" />
+          <entry key="PLAIN_TEXT" value="14" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="md" value="4710" />
+          <entry key="java" value="15" />
+          <entry key="md" value="5170" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Markdown" value="4710" />
+          <entry key="JAVA" value="15" />
+          <entry key="Markdown" value="5170" />
         </counts>
       </usages-collector>
     </session>
@@ -138,85 +320,43 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test/configFiles/org4/getFGModeIndicatorSR.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="1" lean-forward="true" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test/configFiles/org5/getFGModeSelectorSR.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="1" lean-forward="true" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/resources/networkConfig.properties">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" selection-start-line="2" selection-end-line="6" selection-end-column="15" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="625">
-                <caret line="220" lean-forward="true" selection-start-line="220" selection-end-line="220" />
-              </first_editor>
-              <second_editor />
+            <state relative-caret-position="195">
+              <caret line="13" selection-start-line="13" selection-end-line="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test/configFiles/org2/getFGModeControllerSR4.txt">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/ca.org1.example.com-cert.pem">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/connection-org1.json">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/ca.org2.example.com-cert.pem">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/connection-org2.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="1" column="15" lean-forward="true" selection-start-line="1" selection-start-column="15" selection-end-line="1" selection-end-column="36" />
+            <state relative-caret-position="255">
+              <caret line="17" column="40" selection-start-line="17" selection-start-column="40" selection-end-line="17" selection-end-column="40" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test/configFiles/org5/getFGModeSelectorSR.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/evidentia/wrappers/generateFGModeControllerSRWRP.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="18" column="85" lean-forward="true" selection-start-line="18" selection-start-column="85" selection-end-line="18" selection-end-column="85" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/TempRepo/workflows/getFGModeControllerSR4">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test/configFiles/org2/generateFGModeControllerSR.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="1" lean-forward="true" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test/configFiles/org2/generateFGModeControllerSR.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="18" column="85" selection-start-line="18" selection-start-column="85" selection-end-line="18" selection-end-column="85" />
+            <state relative-caret-position="545">
+              <caret line="42" column="13" lean-forward="true" selection-start-line="42" selection-start-column="13" selection-end-line="42" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -225,8 +365,45 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test/configFiles/initFile.txt">
-          <provider selected="true" editor-type-id="text-editor" />
+        <entry file="file://$PROJECT_DIR$/test/configFiles/org4/getFGModeIndicatorSR.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="22" selection-start-line="22" selection-end-line="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test/configFiles/org5/getFGModeSelectorSR.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="21" selection-start-line="21" selection-end-line="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="598">
+                <caret line="223" lean-forward="true" selection-start-line="223" selection-end-line="223" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test/configFiles/org2/generateFGModeControllerSR.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="420">
+              <caret line="30" column="32" selection-end-line="48" selection-end-column="1" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -256,7 +433,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/resources/networkConfig.properties" />
         <option value="$PROJECT_DIR$/test/configFiles/workflow2.txt" />
         <option value="$PROJECT_DIR$/TempRepo/N1" />
         <option value="$PROJECT_DIR$/TempRepo/workflows/validationW" />
@@ -292,20 +468,21 @@
         <option value="$PROJECT_DIR$/test/configFiles/getFGModeControllerSR3.txt" />
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/test/configFiles/getFGModeControllerSR4.txt" />
-        <option value="$PROJECT_DIR$/src/main/java/evidentia/wrappers/generateFGModeControllerSRWRP.java" />
-        <option value="$PROJECT_DIR$/test/configFiles/org2/generateFGModeControllerSR.java" />
         <option value="$PROJECT_DIR$/src/main/java/evidentia/etbCS/utils/claimsPack.java" />
         <option value="$PROJECT_DIR$/src/main/java/evidentia/etbCS/utils/claimSpec.java" />
-        <option value="$PROJECT_DIR$/test/configFiles/org5/getFGModeSelectorSR.java" />
-        <option value="$PROJECT_DIR$/test/configFiles/org4/getFGModeIndicatorSR.java" />
-        <option value="$PROJECT_DIR$/src/main/java/evidentia/Administrator.java" />
         <option value="$PROJECT_DIR$/src/main/resources/networkConfig.properties" />
-        <option value="$PROJECT_DIR$/src/main/java/evidentia/Coordinator.java" />
         <option value="$PROJECT_DIR$/test/configFiles/org2/getFGModeControllerSR4.txt" />
         <option value="$PROJECT_DIR$/TempRepo/workflows/getFGModeControllerSR4" />
         <option value="$PROJECT_DIR$/test/configFiles/org2/generateFGModeControllerSR.txt" />
         <option value="$PROJECT_DIR$/test/configFiles/org4/getFGModeIndicatorSR.txt" />
         <option value="$PROJECT_DIR$/test/configFiles/org5/getFGModeSelectorSR.txt" />
+        <option value="$PROJECT_DIR$/src/main/java/evidentia/Coordinator.java" />
+        <option value="$PROJECT_DIR$/src/main/java/evidentia/Administrator.java" />
+        <option value="$PROJECT_DIR$/test/configFiles/org2/getFGModeControllerSR.txt" />
+        <option value="$PROJECT_DIR$/test/configFiles/org2/generateFGModeControllerSR.java" />
+        <option value="$PROJECT_DIR$/src/main/java/evidentia/wrappers/generateFGModeControllerSRWRP.java" />
+        <option value="$PROJECT_DIR$/test/configFiles/org4/getFGModeIndicatorSR.java" />
+        <option value="$PROJECT_DIR$/test/configFiles/org5/getFGModeSelectorSR.java" />
         <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
@@ -376,6 +553,15 @@
               <item name="ETB" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="evidentia" type="462c0819:PsiDirectoryNode" />
+              <item name="wrappers" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ETB" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ETB" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -421,6 +607,11 @@
               <item name="configFiles" type="462c0819:PsiDirectoryNode" />
               <item name="org5" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="ETB" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ETB" type="462c0819:PsiDirectoryNode" />
+              <item name="wallet" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -430,23 +621,23 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1600194275684" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1600199765834" />
     <property name="go.gopath.indexing.explicitly.defined" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/test/configFiles/org2" />
-      <recent name="$PROJECT_DIR$/src/main" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/main/resources" />
       <recent name="$PROJECT_DIR$/test/configFiles/org4" />
       <recent name="$PROJECT_DIR$/src/main/java/evidentia" />
       <recent name="$PROJECT_DIR$/test/configFiles/org5" />
       <recent name="$PROJECT_DIR$/TempRepo/workflows" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/test/configFiles/org2" />
+      <recent name="$PROJECT_DIR$/src/main" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -493,12 +684,12 @@
       <updated>1599730026015</updated>
       <workItem from="1599730027251" duration="54872000" />
       <workItem from="1600180990088" duration="542000" />
-      <workItem from="1600187177552" duration="6908000" />
+      <workItem from="1600187177552" duration="12115000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="62322000" />
+    <option name="totallyTimeSpent" value="67529000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-305" y="-1200" width="1920" height="1200" extended-state="0" />
@@ -520,7 +711,7 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.20353982" />
+      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.29292035" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="11" weight="0.68025476" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -629,13 +820,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test/configFiles/org4/getFGModeIndicatorSR.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="32" lean-forward="true" selection-start-line="16" selection-start-column="32" selection-end-line="16" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/evidentia/configurations/FGModeSelector.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
@@ -650,49 +834,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/evidentia/wrappers/generateFGModeControllerSRWRP.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/resources/ca.org1.example.com-cert.pem" />
-    <entry file="file://$PROJECT_DIR$/src/main/resources/connection-org1.json" />
-    <entry file="file://$PROJECT_DIR$/src/main/resources/ca.org2.example.com-cert.pem" />
-    <entry file="file://$PROJECT_DIR$/src/main/resources/connection-org2.json" />
     <entry file="file://$PROJECT_DIR$/.gitignore" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/evidentia/Administrator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="33" column="35" selection-end-line="178" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/evidentia/Coordinator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2070">
-          <caret line="166" column="9" selection-start-line="166" selection-start-column="9" selection-end-line="166" selection-end-column="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/configFiles/org2/generateFGModeControllerSR.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="18" column="85" selection-start-line="18" selection-start-column="85" selection-end-line="18" selection-end-column="85" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/networkConfig.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" selection-start-line="2" selection-end-line="6" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/configFiles/initFile.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/test/configFiles/org4/getFGModeIndicatorSR.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
@@ -707,13 +849,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/TempRepo/workflows/getFGModeControllerSR4">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/test/configFiles/org2/generateFGModeControllerSR.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
@@ -721,25 +856,102 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test/configFiles/org5/getFGModeSelectorSR.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/evidentia/Coordinator.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="18" column="85" lean-forward="true" selection-start-line="18" selection-start-column="85" selection-end-line="18" selection-end-column="85" />
+        <state relative-caret-position="676">
+          <caret line="165" column="33" selection-start-line="165" selection-start-column="33" selection-end-line="165" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test/configFiles/org2/getFGModeControllerSR4.txt">
+    <entry file="file://$PROJECT_DIR$/src/main/java/evidentia/Administrator.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="15" lean-forward="true" selection-start-line="1" selection-start-column="15" selection-end-line="1" selection-end-column="36" />
+        <state relative-caret-position="635">
+          <caret line="171" selection-start-line="171" selection-end-line="171" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/configFiles/initFile.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/configFiles/org2/getFGModeControllerSR.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TempRepo/workflows/getFGModeControllerSR">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/networkConfig.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/ca.org1.example.com-cert.pem">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/connection-org1.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/ca.org2.example.com-cert.pem">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/connection-org2.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="40" selection-start-line="17" selection-start-column="40" selection-end-line="17" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/configFiles/org2/generateFGModeControllerSR.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="30" column="32" selection-end-line="48" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/configFiles/org4/getFGModeIndicatorSR.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/configFiles/org5/getFGModeSelectorSR.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/evidentia/wrappers/generateFGModeControllerSRWRP.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="545">
+          <caret line="42" column="13" lean-forward="true" selection-start-line="42" selection-start-column="13" selection-end-line="42" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="625">
-            <caret line="220" lean-forward="true" selection-start-line="220" selection-end-line="220" />
+          <first_editor relative-caret-position="598">
+            <caret line="223" lean-forward="true" selection-start-line="223" selection-end-line="223" />
           </first_editor>
           <second_editor />
         </state>

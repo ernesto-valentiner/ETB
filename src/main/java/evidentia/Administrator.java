@@ -157,19 +157,12 @@ public class Administrator implements User{
 
 			String entityName = prop.getProperty("entityName");
 			String pemFilename = prop.getProperty("pemFilename");
-			String pemFilenameCoord = prop.getProperty("pemFilenameCoord");
 			String caClientUrl = prop.getProperty("caClientUrl");
-			String caClientCoordUrl = prop.getProperty("caClientCoordUrl");
 			String mspName = prop.getProperty("MSPName");
-			String mspCoordName = prop.getProperty("MSPCoordName");
 
 			Administrator admin = new Administrator("admin_" + entityName, "adminpw", pemFilename, caClientUrl, mspName, entityName + ".department1");
 			admin.enroll();
 			admin.registerUser(entityName);
-
-			Administrator admin_coord = new Administrator("admin_coord", "adminpw", pemFilenameCoord, caClientCoordUrl, mspCoordName, "org1.department1");
-			admin_coord.enroll();
-			admin_coord.registerUser("coord");
 
 		} catch (Exception ex) {
 			ex.printStackTrace();

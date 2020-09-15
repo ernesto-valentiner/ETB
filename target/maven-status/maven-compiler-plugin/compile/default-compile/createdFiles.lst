@@ -1,6 +1,7 @@
 evidentia/GUI/UserInterface$2.class
 evidentia/etbDL/utils/Rule.class
 evidentia/configurations/FGModeIndicator.class
+evidentia/wrappers/generateFGModeControllerSRETBWRP.class
 evidentia/etbCS/utils/claimsPack.class
 evidentia/etbCS/utils/serversPackage.class
 evidentia/GUI/UserInterface$2$1.class
@@ -29,6 +30,7 @@ evidentia/etbDL/utils/DatalogException.class
 evidentia/etbDL/CyberlogicParser.class
 evidentia/etbDL/engine/IndexedSet.class
 evidentia/GUI/UserInterface.class
+evidentia/wrappers/generateFGModeControllerSRWRP.class
 evidentia/Coordinator$1.class
 evidentia/etbCS/utils/workFlowSpec.class
 evidentia/GUI/UserInterface$FileChooserEventHandler.class

@@ -132,7 +132,7 @@ This means, that we will have an ETBNode for Org2, one for Org5 and one for Org4
     8054 for Org2; 11054 for Org4; and 15054 for Org5;
     The rest of the variables don't change.
 
-2. After changing the variables, we need to add the specified files. Add the following files to the /src/main/resources/ folder for the corresponding organization of the node.
+2. After changing the variables, we need to add the specified files. Add the following files to the /src/main/resources folder for the corresponding organization of the node.
     - /evidentia-prototype/test-network/organizations/peerOrganizations/org?.example.com/ca/ca.org?.example.com-cert.pem
     
     - /evidentia-prototype/test-network/organizations/peerOrganizations/org?.example.com/connection-org?.json
@@ -152,11 +152,14 @@ This means, that we will have an ETBNode for Org2, one for Org5 and one for Org4
 
 4. Each ETBNode also requires the admin coordinator and user coordinator. For this we execute the following command once in an ETBNode 
 and then copy the created entities in de wallets of the other two nodes.
+    ```console
+    mvn exec:java -Dexec.mainClass="evidentia.Coordinator"
+    ```
 
 5. The next step involves initializing the node. For each node, open the /test/configFiles/initFile.txt file and set a free port for the 
 node to use. Each node requires a different port.
 
-    After setting the port run the following command to initialize the node.
+    After setting the port run ```mvn clean install``` and then the following command to initialize the node.
     ```console
     mvn exec:java -Dexec.mainClass="evidentia.Evidentia" -Dexec.args="-init test/configFiles/initFile.txt"
     ``` 
@@ -196,10 +199,17 @@ node to use. Each node requires a different port.
 
 ### Run the workflow
 
-The final step is to run the workflow and create the claims. The parameters are variables where the output of each service will be stored.
+The final step is to run the workflow and create the claims. First run the ETBNodes of Org4 and Org5 in server mode, by executing the following command on each node.
+ ```console
+mvn exec:java -Dexec.mainClass="evidentia.Evidentia"
+```
+
+Then execute the claim on the Org2 ETBNode. The parameters are variables where the output of each service will be stored.
 ```console
 mvn exec:java -Dexec.mainClass="evidentia.Evidentia" -Dexec.args="-add-claim \"getFGModeControllerSR(P1, P2, P3)\""
 ```
+When the claims are finished successful, then the generated files by the services will be found under /TempRepo/evidence.
+The final evidence is the result of the service generateFGModeControllerSR and is found in the file FGModeControllerSR.pdf.
 
 ### Useful Functions 
 To get the information about a node run:
