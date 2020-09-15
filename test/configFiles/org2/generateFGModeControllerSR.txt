@@ -1,0 +1,5 @@
+{
+	"ID": "generateFGModeControllerSR",
+	"signature": "file file",
+	"modes": "+-"
+}

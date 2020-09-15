@@ -1,0 +1,5 @@
+{
+	"ID": "getFGModeIndicatorSR",
+	"signature": "file file",
+	"modes": "+-"
+}

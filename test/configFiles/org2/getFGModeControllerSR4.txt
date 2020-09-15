@@ -1,0 +1,11 @@
+{
+		"ID": "getFGModeControllerSR4",
+		"script": "workflows/getFGModeControllerSR4",
+		"queries": [
+			{
+				"ID":"getFGModeControllerSR4",
+				"signature": ["string", "file", "file", "file"],
+				"mode": "+---"
+			}
+		]
+	}
